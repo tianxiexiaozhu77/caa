@@ -1,0 +1,416 @@
+Q: There were a total of 13 hockey games a month. The season is played for  14 months. How many hockey games are in the seasons ?
+A: Let's think step by step. 
+There are 13 hockey games each month.
+The season lasts for 14 months.
+To find the total number of hockey games in the season, multiply the number of games per month by the number of months.
+13 times 14 equals 182.
+So, there are 182 hockey games in the season.
+
+
+Q: On Wednesday, Joan spent 4 half-dollars playing pinball. The next day, she spent 14 half-dollars on pinball. What was the total amount Joan spent playing pinball?
+A: Let's think step by step. 
+Joan spent 4 half-dollars on Wednesday.
+She spent 14 half-dollars on Thursday.
+Add the total number of half-dollars she spent: 4 + 14 = 18 half-dollars.
+Each half-dollar is worth $0.50.
+Multiply 18 by 0.50: 18 × 0.50 = 9.
+So, Joan spent a total of 9 dollars playing pinball.
+
+
+Q: Dana earns $13 per hour. She worked 9 hours on Friday, 10 hours on Saturday, and 3 hours on Sunday. How much money did Dana earn in all?
+A: Let's think step by step. 
+Dana earns $13 per hour.
+She worked 9 hours on Friday, 10 hours on Saturday, and 3 hours on Sunday.
+Add up the total hours she worked: 9 + 10 + 3 = 22 hours.
+Multiply the total hours by her hourly rate: 22 × 13 = 286.
+So, Dana earned $286 in all.
+
+
+Q: In Mr. Olsen's mathematics class, 0.7 of the students received A's and 0.2 received B's. What fraction of the students received either A's or B's?
+A: Let's think step by step. 
+0.7 of the students received A’s.
+0.2 of the students received B’s.
+To find the fraction of students who received either A’s or B’s, add the two values:
+0.7 + 0.2 = 0.9.
+So, 0.9 of the students received either A’s or B’s.
+
+
+Q: 0.5 of the students in the band are in the trumpet section. 0.125 of the students in the band are in the trombone section. What fraction of the students in the band are in either the trumpet section or the trombone section?
+A: Let's think step by step. 
+0.5 of the students are in the trumpet section.
+0.125 of the students are in the trombone section.
+Add the two fractions to find the total in either section:
+0.5 + 0.125 = 0.625.
+So, 0.625 of the students are in either the trumpet or trombone section.
+
+
+Q: Marie starts with 95 erasers. She loses 42. How many erasers does Marie end with?
+A: Let's think step by step. 
+Marie starts with 95 erasers.
+She loses 42 erasers.
+Subtract the number she lost from the starting amount:
+95 - 42 = 53.
+So, Marie ends with 53 erasers.
+
+
+Q: Gumballs come in packages of 5. Nathan ate 20 gumballs. How many whole boxes did he eat and how many gumballs does he have left?
+A: Let's think step by step. 
+Gumballs come in packages of 5.
+Nathan ate 20 gumballs.
+To find how many whole boxes he ate, divide 20 by 5:
+20 ÷ 5 = 4.
+Since 20 divides evenly by 5, he ate 4 whole boxes and has 0 gumballs left.
+So, Nathan ate 4 whole boxes and has 0 gumballs left.
+
+
+Q: Willie has 48 bananas. Charles has 14 bananas. He loses 35. How many bananas will Willie have?
+A: Let's think step by step. 
+Willie has 48 bananas.
+Charles has 14 bananas, but that information is not needed to solve the question.
+Willie loses 35 bananas.
+Subtract the number he lost from the number he had:
+48 - 35 = 13.
+So, Willie will have 13 bananas.
+
+
+Q: Theresa has 32 crayons. Janice has 12 crayons. She shares 13 with Nancy. How many crayons will Theresa have?
+A: Let's think step by step. 
+Theresa has 32 crayons.
+Janice has 12 crayons, but that information is not needed to solve the question.
+Theresa shares 13 crayons with Nancy.
+Subtract the number she shared from the number she had:
+32 - 13 = 19.
+So, Theresa will have 19 crayons.
+
+
+Q: A sandbox is 312 centimeters long and 146 centimeters wide. How many square centimeters of ground does the sandbox cover?
+A: Let's think step by step. 
+The sandbox is 312 centimeters long and 146 centimeters wide.
+To find the area it covers, multiply the length by the width:
+312 × 146 = 45,552.
+So, the sandbox covers 45,552 square centimeters of ground.
+
+
+Q: There are 84 leaves. There are 139 ladybugs on each leaf. How many ladybugs are there in all?
+A: Let's think step by step. 
+There are 84 leaves.
+There are 139 ladybugs on each leaf.
+To find the total number of ladybugs, multiply the number of leaves by the number of ladybugs per leaf:
+84 × 139 = 11,676.
+So, there are 11,676 ladybugs in all.
+
+
+Q: It takes 7 minutes to bake one pan of cookies. How long will it take to bake 4 pans of cookies?
+A: Let's think step by step. 
+It takes 7 minutes to bake one pan of cookies.
+To find the time to bake 4 pans, multiply 7 by 4:
+7 × 4 = 28.
+So, it will take 28 minutes.
+
+
+Q: Maggi had 3 packages of cupcakes. There are 4 cupcakes in each package. She ate 5 cupcakes. How many are left?
+A: Let's think step by step. 
+Maggi had 3 packages of cupcakes, with 4 cupcakes in each package.
+Multiply the number of packages by the number of cupcakes per package: 3 × 4 = 12.
+She ate 5 cupcakes.
+Subtract the number she ate from the total: 12 - 5 = 7.
+So, Maggi has 7 cupcakes left.
+
+
+Q: I have a pet golden retriever. Each year he gains 11 pounds. He is 8 years old. How many pounds does he weigh?
+A: Let's think step by step. 
+Your golden retriever gains 11 pounds each year.
+He is 8 years old.
+Multiply the number of years by the weight gained each year:
+8 × 11 = 88.
+So, your golden retriever weighs 88 pounds.
+
+
+Q: In Shannon 's apartment complex , 0.16666666666666666 the apartments are one-bedroom apartments and 0.3333333333333333 are two-bedroom apartments . What fraction of the apartments are either 1 - or two-bedroom apartments ?
+A: Let's think step by step. 
+0.16666666666666666 of the apartments are one-bedroom.
+0.3333333333333333 of the apartments are two-bedroom.
+Add the two values to find the total fraction that are either one- or two-bedroom:
+0.16666666666666666 + 0.3333333333333333 = 0.5.
+So, 0.5 of the apartments are either one- or two-bedroom apartments.
+
+
+Q: At the hardware store , 0.25 the nails are size 2d and 0.5 the nails are size 4d . What fraction of the nails are either size 2d or 4d ?
+A: Let's think step by step. 
+0.25 of the nails are size 2d.
+0.5 of the nails are size 4d.
+Add the two fractions to find the total that are either size 2d or 4d:
+0.25 + 0.5 = 0.75.
+So, 0.75 of the nails are either size 2d or 4d.
+
+
+Q: Joan had 695 Pokemon cards , and 6 were torn . Sara bought 133 of Joan 's Pokemon cards . How many Pokemon cards does Joan have now ?
+A: Let's think step by step. 
+Joan started with 695 Pokémon cards.
+6 of them were torn, but the question asks how many cards she has now, after Sara bought some, not about the torn ones unless they were removed — and since the question doesn't say the torn ones were discarded, we ignore that detail.
+Sara bought 133 of Joan's cards.
+Subtract the number Sara bought from Joan’s total:
+695 - 133 = 562.
+So, Joan has 562 Pokémon cards now.
+
+
+Q: Dan spent $ 11.76 on a snake toy , and a cage cost him $ 14.54 . Dan also found a dollar bill on the ground . What was the total cost of Dan 's purchases ?
+A: Let's think step by step. 
+Dan spent $11.76 on a snake toy and $14.54 on a cage.
+To find the total cost of his purchases, add the two amounts:
+11.76 + 14.54 = 26.30.
+The dollar he found on the ground does not affect the total cost — it only affects how much he pays, not what things cost.
+So, the total cost of Dan's purchases is $26.30.
+
+
+Q: Keith spent $ 6.51 on a rabbit toy , $ 5.79 on pet food , and a cage cost him $ 12.51 . He found a dollar bill on the ground . What was the total cost of Keith 's purchases ?
+A: Let's think step by step. 
+Keith spent:
+$6.51 on a rabbit toy
+$5.79 on pet food
+$12.51 on a cage
+To find the total cost of his purchases, add all three amounts:
+6.51 + 5.79 + 12.51 = 24.81
+The dollar he found on the ground does not change the total cost — it's just extra money he has.
+So, the total cost of Keith's purchases is $24.81.
+
+
+Q: Vanessa and her friends were recycling paper for their class. For every 9 pounds they recycled they earned one point. If Vanessa recycled 20 pounds and her friends recycled 16 pounds, how many points did they earn?
+A: Let's think step by step. 
+Vanessa recycled 20 pounds and her friends recycled 16 pounds.
+Add the total amount of paper they recycled:
+20 + 16 = 36 pounds.
+They earn 1 point for every 9 pounds recycled.
+Divide the total pounds by 9:
+36 ÷ 9 = 4.
+So, they earned 4 points.
+
+
+Q: Kaleb bought 14 boxes of chocolate candy and gave 5 to his little brother. If each box has 6 pieces inside it, how many pieces did Kaleb still have?
+A: Let's think step by step. 
+Kaleb bought 14 boxes of chocolate candy.
+He gave 5 boxes to his little brother.
+So, he kept 14 - 5 = 9 boxes.
+Each box has 6 pieces inside.
+Multiply the number of boxes he kept by the number of pieces per box:
+9 × 6 = 54.
+So, Kaleb still had 54 pieces of chocolate candy.
+
+
+Q: Will bought 7 boxes of chocolate candy and gave 3 to his little brother. If each box has 4 pieces inside it, how many pieces did Will still have?
+A: Let's think step by step. 
+Will bought 7 boxes of chocolate candy.
+He gave 3 boxes to his little brother.
+So, he kept 7 - 3 = 4 boxes.
+Each box has 4 pieces inside.
+Multiply the number of boxes he kept by the number of pieces per box:
+4 × 4 = 16.
+So, Will still had 16 pieces of chocolate candy.
+
+
+Q: Mike invited 13 friends to a birthday party, but 7 couldn't come. If he wanted to buy enough cupcakes so each person could have exactly 4, how many should he buy?
+A: Let's think step by step. 
+Mike invited 13 friends, but 7 couldn't come.
+So, the number of friends who came is: 13 - 7 = 6.
+Including Mike himself, the total number of people at the party is: 6 + 1 = 7.
+Each person gets 4 cupcakes.
+Multiply the number of people by the number of cupcakes each: 7 × 4 = 28.
+So, Mike should buy 28 cupcakes.
+
+
+Q: Will invited 9 friends to a birthday party, but 4 couldn't come. If he wanted to buy enough cupcakes so each person could have exactly 8, how many should he buy?
+A: Let's think step by step. 
+Will invited 9 friends, but 4 couldn't come.
+So, the number of friends who came is: 9 - 4 = 5.
+Including Will himself, the total number of people at the party is: 5 + 1 = 6.
+Each person gets 8 cupcakes.
+Multiply the number of people by the number of cupcakes each: 6 × 8 = 48.
+So, Will should buy 48 cupcakes.
+
+
+Q: Zoe baked 5 brownies, but needed 11 total for her party. If she used 7 cups of flour on each one, how much cups of flour does she still need?
+A: Let's think step by step. 
+Zoe needs 11 brownies for her party but has only baked 5.
+So, she still needs to bake: 11 - 5 = 6 brownies.
+Each brownie requires 7 cups of flour.
+Multiply the number of brownies she still needs by the flour per brownie:
+6 × 7 = 42.
+So, Zoe still needs 42 cups of flour.
+
+
+Q: Tiffany baked 8 brownies, but needed 17 total for her party. If she used 8 cups of flour on each one, how much cups of flour does she still need?
+A: Let's think step by step. 
+Tiffany needs 17 brownies but has only baked 8.
+So, she still needs to bake: 17 - 8 = 9 brownies.
+Each brownie requires 8 cups of flour.
+Multiply the number of brownies she still needs by the flour per brownie:
+9 × 8 = 72.
+So, Tiffany still needs 72 cups of flour.
+
+
+Q: Sam invited 9 friends to a birthday party, but 6 couldn't come. If he wanted to buy enough cupcakes so each person could have exactly 2, how many should he buy?
+A: Let's think step by step. 
+Sam invited 9 friends, but 6 couldn't come.
+So, 9 - 6 = 3 friends came.
+Including Sam himself, there are 3 + 1 = 4 people at the party.
+Each person gets 2 cupcakes.
+Multiply the number of people by cupcakes per person: 4 × 2 = 8.
+So, Sam should buy 8 cupcakes.
+
+
+Q: Paige's team won their dodgeball game and scored 41 points total. If Paige scored 11 of the points and everyone else scored 6 points each, how many players were on her team?
+A: Let's think step by step. 
+Paige scored 11 points.
+The team scored a total of 41 points.
+So, the rest of the team scored: 41 - 11 = 30 points.
+Each of the other players scored 6 points.
+Divide 30 by 6 to find how many other players there were: 30 ÷ 6 = 5.
+Including Paige, the total number of players on the team is: 5 + 1 = 6.
+So, there were 6 players on Paige's team.
+
+
+Q: Emily's team won their dodgeball game and scored 39 points total. If Emily scored 23 of the points and everyone else scored 2 points each, how many players were on her team?
+A: Let's think step by step. 
+Emily scored 23 points.
+The team scored a total of 39 points.
+So, the rest of the team scored: 39 - 23 = 16 points.
+Each of the other players scored 2 points.
+Divide 16 by 2 to find how many other players there were: 16 ÷ 2 = 8.
+Including Emily, the total number of players on the team is: 8 + 1 = 9.
+So, there were 9 players on Emily's team.
+
+
+Q: Haley was planting vegetables in her garden. She started with 56 seeds and planted 35 of them in the big garden and in each of her small gardens put 3 seeds each. How many small gardens did Haley have?
+A: Let's think step by step. 
+Haley started with 56 seeds.
+She planted 35 seeds in the big garden.
+So, the remaining seeds were: 56 - 35 = 21 seeds.
+She put 3 seeds in each small garden.
+To find how many small gardens she had, divide 21 by 3:
+21 ÷ 3 = 7.
+So, Haley had 7 small gardens.
+
+
+Q: A store had 48 coloring books in stock. They ended up putting them on sale and getting rid of 38 of them. The put the ones they still had onto shelves with 5 on each shelf. How many shelves did they use?
+A: Let's think step by step. 
+The store started with 48 coloring books and got rid of 38.
+So, the number of coloring books remaining is: 48 - 38 = 10.
+They put 5 coloring books on each shelf.
+To find how many shelves they used, divide 10 by 5:
+10 ÷ 5 = 2.
+So, they used 2 shelves.
+
+
+Q: Roger is at the library helping put away books. There are 14 book to put away total but a librarian takes 2 of them and leaves Roger with the rest. If he can fit 3 books on a shelf, how many shelves will he need?
+A: Let's think step by step. 
+There are 14 books total.
+The librarian takes 2 books, so Roger has: 14 - 2 = 12 books left.
+He can fit 3 books on each shelf.
+To find how many shelves he needs, divide 12 by 3:
+12 ÷ 3 = 4.
+So, Roger will need 4 shelves.
+
+
+Q: A pet store had 56 puppies. In one day they sold 24 of them and put the rest into cages with 4 in each cage. How many cages did they use?
+A: Let's think step by step. 
+The pet store started with 56 puppies.
+They sold 24 puppies in one day.
+So, the number of puppies left is: 56 - 24 = 32.
+They put 4 puppies in each cage.
+To find how many cages they used, divide 32 by 4:
+32 ÷ 4 = 8.
+So, they used 8 cages.
+
+
+Q: The cafeteria had 86 apples. For lunch they handed out 30 to students and decided to use the rest to make pies. If each pie takes 8 apples, how many pies could they make?
+A: Let's think step by step. 
+The cafeteria started with 86 apples.
+They gave out 30 apples to students.
+So, the number of apples left for pies is: 86 - 30 = 56 apples.
+Each pie takes 8 apples.
+To find how many pies they can make, divide 56 by 8:
+56 ÷ 8 = 7.
+So, they could make 7 pies.
+
+
+Q: Jerry had 60 pieces of clothing to wash. He put 40 of them in one load, but decided to split the rest into 5 equal loads. How many pieces of clothing could go in each of the small loads?
+A: Let's think step by step. 
+Jerry had 60 pieces of clothing to wash.
+He put 40 of them in one load.
+So, the number of pieces left for the smaller loads is: 60 - 40 = 20 pieces.
+He decided to split the remaining 20 pieces into 5 equal loads.
+To find how many pieces go in each small load, divide 20 by 5:
+20 ÷ 5 = 4.
+So, there could be 4 pieces of clothing in each of the small loads.
+
+
+Q: Emily was planting vegetables in her garden. She started with 42 seeds and planted 36 of them in the big garden and in each of her small gardens put 2 seeds each. How many small gardens did Emily have?
+A: Let's think step by step. 
+Emily started with 42 seeds.
+She planted 36 seeds in the big garden.
+So, the remaining seeds are: 42 - 36 = 6 seeds.
+She put 2 seeds in each small garden.
+To find how many small gardens she had, divide 6 by 2:
+6 ÷ 2 = 3.
+So, Emily had 3 small gardens.
+
+
+Q: Jerry is at the library helping put away books. There are 34 book to put away total but a librarian takes 7 of them and leaves Jerry with the rest. If he can fit 3 books on a shelf, how many shelves will he need?
+A: Let's think step by step. 
+There are 34 books in total.
+The librarian takes 7 books, so Jerry has: 34 - 7 = 27 books left.
+Jerry can fit 3 books on each shelf.
+To find how many shelves he will need, divide 27 by 3:
+27 ÷ 3 = 9.
+So, Jerry will need 9 shelves.
+
+
+Q: Isabel had 72 homework problems. She finished 32 of them but still had 5 pages of problems to do. If each page has the same number of problems on it, how many problems are on each page?
+A: Let's think step by step. 
+Isabel had 72 homework problems.
+She finished 32 of them, so the number of problems left is: 72 - 32 = 40 problems.
+She still has 5 pages of problems to do.
+To find how many problems are on each page, divide the remaining problems by the number of pages:
+40 ÷ 5 = 8.
+So, there are 8 problems on each page.
+
+
+Q: Edward bought 79 tickets at the state fair. He spent 23 tickets at the 'dunk a clown' booth and decided to use the rest on rides. If each ride cost 7 tickets, how many rides could he go on?
+A: Let's think step by step. 
+Edward bought 79 tickets.
+He spent 23 tickets at the 'dunk a clown' booth.
+So, the number of tickets left for rides is: 79 - 23 = 56 tickets.
+Each ride costs 7 tickets.
+To find how many rides he can go on, divide the remaining tickets by the number of tickets per ride:
+56 ÷ 7 = 8.
+So, Edward could go on 8 rides.
+
+
+Q: A worksheet had 7 problems on it. If a teacher had 17 worksheets to grade and had already graded 8 of them, how many more problems does she have to grade?
+A: Let's think step by step. 
+Each worksheet has 7 problems.
+The teacher has 17 worksheets in total.
+The total number of problems to grade is:
+17 × 7 = 119 problems.
+She has already graded 8 worksheets, so the number of problems she has already graded is:
+8 × 7 = 56 problems.
+To find how many more problems she has to grade, subtract the number of problems already graded from the total number of problems:
+119 - 56 = 63 problems.
+So, the teacher has 63 more problems to grade.
+
+
+Q: Tori was 4.4 feet tall . Then she grew 2.86 feet taller . How tall is Tori now ?
+
+
+Q: Tori was 4.4 feet tall . Then she grew 2.86 feet taller . How tall is Tori now ?
+
+
+Q: Tori was 4.4 feet tall . Then she grew 2.86 feet taller . How tall is Tori now ?
+
+
+Q: Tori was 4.4 feet tall . Then she grew 2.86 feet taller . How tall is Tori now ?
+
+
+Q: Tori was 4.4 feet tall . Then she grew 2.86 feet taller . How tall is Tori now ?
+
+

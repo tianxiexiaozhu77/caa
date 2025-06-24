@@ -1,0 +1,167 @@
+Q: Ned had to wash 9 short sleeve shirts and 21 long sleeve shirts before school. If he had only washed 29 of them by the time school started, how many did he not wash? 
+A: Let's think step by step. 
+Ned had 9 short sleeve shirts and 21 long sleeve shirts.
+Total shirts = 9 + 21 = 30.
+He washed 29 shirts.
+Shirts not washed = 30 - 29 = 1.
+So, he did not wash 1 shirt.
+
+
+Q: Chloe picked 48 carrots from her garden. If she threw out 45 of them and then picked 42 more the next day, how many carrots would she have total? 
+A: Let's think step by step. 
+Chloe picked 48 carrots.
+She threw out 45, so 48 - 45 = 3 carrots remained.
+The next day, she picked 42 more.
+Total carrots = 3 + 42 = 45.
+So, she would have 45 carrots total.
+
+
+Q: A pet store has 6 bird cages. If each cage has 6 parrots and 2 parakeets in it, how many birds does the pet store have total? 
+A: Let's think step by step. 
+Each cage has 6 parrots and 2 parakeets, so each cage has 6 + 2 = 8 birds.
+There are 6 cages, so total birds = 6 × 8 = 48.
+The pet store has 48 birds total.
+
+
+Q: Rachel was unboxing some of her old winter clothes. She found 7 boxes of clothing and inside each box there were 3 scarves and 4 mittens. How many pieces of winter clothing did Rachel have total? 
+A: Let's think step by step. 
+Each box has 3 scarves and 4 mittens, so each box contains 3 + 4 = 7 pieces of clothing.
+There are 7 boxes, so total pieces = 7 × 7 = 49.
+Rachel had 49 pieces of winter clothing total.
+
+
+Q: Luke was putting his spare change into piles. He had 5 piles of quarters and 5 piles of dimes. If each pile had 3 coins in it, how many coins did he have total? 
+A: Let's think step by step. 
+Luke had 5 piles of quarters and 5 piles of dimes, which is 5 + 5 = 10 piles.
+Each pile had 3 coins, so total coins = 10 × 3 = 30.
+Luke had 30 coins total.
+
+
+Q: There were 5 friends playing a video game online when 2 more players joined the game. If each player had 8 lives, how many lives did they have total? 
+A: Let's think step by step. 
+There were originally 5 players, and 2 more joined, so total players = 5 + 2 = 7.
+Each player had 8 lives, so total lives = 7 × 8 = 56.
+They had 56 lives total.
+
+
+Q: A waiter had 9 tables he was waiting on, with 2 women and 6 men at each table. How many customers total did the waiter have? 
+A: Let's think step by step. 
+Each table had 2 women and 6 men, so each table had 2 + 6 = 8 customers.
+There were 9 tables, so total customers = 9 × 8 = 72.
+The waiter had 72 customers total.
+
+
+Q: There were 4 friends playing a video game online when 5 more players joined the game. If each player had 3 lives, how many lives did they have total? 
+A: Let's think step by step. 
+There were 4 original players, and 5 more joined, so total players = 4 + 5 = 9.
+Each player had 3 lives, so total lives = 9 × 3 = 27.
+They had 27 lives total.
+
+
+Q: Olivia was making baggies of cookies with 9 cookies in each bag. If she had 13 chocolate chip cookies and 41 oatmeal cookies, how many baggies could she make?
+A: Let's think step by step. 
+Olivia had 13 chocolate chip cookies and 41 oatmeal cookies.
+Total cookies = 13 + 41 = 54.
+Each baggie holds 9 cookies, so number of baggies = 54 ÷ 9 = 6.
+She could make 6 baggies of cookies.
+
+
+Q: A pet shelter had 9 puppies when another 12 were brought in. If 3 puppies a day are adopted, how long would it take for all of them to be adopted? 
+A: Let's think step by step. 
+The shelter had 9 puppies, and 12 more were brought in, so total puppies = 9 + 12 = 21.
+If 3 puppies are adopted each day, then time to adopt all = 21 ÷ 3 = 7 days.
+It would take 7 days for all the puppies to be adopted.
+
+
+Q: Roger was helping the cafeteria workers pick up lunch trays, but he could only carry 4 trays at a time. If he had to pick up 10 trays from one table and 2 trays from another, how many trips will he make?
+A: Let's think step by step. 
+Roger had to pick up 10 trays from one table and 2 trays from another, so total trays = 10 + 2 = 12.
+He can carry 4 trays at a time, so number of trips = 12 ÷ 4 = 3.
+Roger will make 3 trips.
+
+
+Q: Maria was making baggies of cookies with 5 cookies in each bag. If she had 33 chocolate chip cookies and 2 oatmeal cookies, how many baggies could she make? 
+A: Let's think step by step. 
+Maria had 33 chocolate chip cookies and 2 oatmeal cookies.
+Total cookies = 33 + 2 = 35.
+Each baggie holds 5 cookies, so number of baggies = 35 ÷ 5 = 7.
+She could make 7 baggies of cookies.
+
+
+Q: A pet shelter had 5 puppies when another 35 were brought in. If 8 puppies a day are adopted, how long would it take for all of them to be adopted?
+A: Let's think step by step. 
+The shelter had 5 puppies, and 35 more were brought in, so total puppies = 5 + 35 = 40.
+If 8 puppies are adopted each day, then time to adopt all = 40 ÷ 8 = 5 days.
+It would take 5 days for all the puppies to be adopted.
+
+
+Q: Dave was helping the cafeteria workers pick up lunch trays, but he could only carry 9 trays at a time. If he had to pick up 17 trays from one table and 55 trays from another, how many trips will he make?
+A: Let's think step by step. 
+Dave had to pick up 17 trays from one table and 55 trays from another.
+Total trays = 17 + 55 = 72.
+He can carry 9 trays at a time.
+Number of trips = 72 ÷ 9 = 8.
+Dave will make 8 trips.
+
+
+Q: Henry was helping the cafeteria workers pick up lunch trays, but he could only carry 9 trays at a time. If he had to pick up 29 trays from one table and 52 trays from another, how many trips will he make?
+A: Let's think step by step. 
+Henry had to pick up 29 trays from one table and 52 trays from another.
+Total trays = 29 + 52 = 81.
+He can carry 9 trays at a time.
+Number of trips = 81 ÷ 9 = 9.
+Henry will make 9 trips.
+
+
+Q: Jerry was helping the cafeteria workers pick up lunch trays, but he could only carry 8 trays at a time. If he had to pick up 9 trays from one table and 7 trays from another, how many trips will he make?
+A: Let's think step by step. 
+Jerry had to pick up 9 trays from one table and 7 trays from another.
+Total trays = 9 + 7 = 16.
+He can carry 8 trays at a time.
+Number of trips = 16 ÷ 8 = 2.
+Jerry will make 2 trips.
+
+
+Q: Haley and her friends were recycling paper for their class. For every 3 pounds they recycled they earned one point. If Haley recycled 11 pounds and her friends recycled 16 pounds, how many points did they earn? 
+A: Let's think step by step. 
+Haley recycled 11 pounds and her friends recycled 16 pounds.
+Total recycled = 11 + 16 = 27 pounds.
+They earn 1 point for every 3 pounds, so points = 27 ÷ 3 = 9.
+They earned 9 points.
+
+
+Q: A pet shelter had 17 puppies when another 55 were brought in. If 8 puppies a day are adopted, how long would it take for all of them to be adopted?
+A: Let's think step by step. 
+The shelter had 17 puppies, and 55 more were brought in, so total puppies = 17 + 55 = 72.
+If 8 puppies are adopted each day, then number of days = 72 ÷ 8 = 9.
+It would take 9 days for all of them to be adopted.
+
+
+Q: A pet shelter had 8 puppies when another 19 were brought in. If 3 puppies a day are adopted, how long would it take for all of them to be adopted?
+A: Let's think step by step. 
+The shelter had 8 puppies, and 19 more were brought in, so total puppies = 8 + 19 = 27.
+If 3 puppies are adopted each day, then number of days = 27 ÷ 3 = 9.
+It would take 9 days for all of them to be adopted.
+
+
+Q: Robin was making baggies of cookies with 6 cookies in each bag. If she had 23 chocolate chip cookies and 25 oatmeal cookies, how many baggies could she make?
+A: Let's think step by step. 
+Robin had 23 chocolate chip cookies and 25 oatmeal cookies.
+Total cookies = 23 + 25 = 48.
+Each baggie holds 6 cookies, so number of baggies = 48 ÷ 6 = 8.
+Robin could make 8 baggies of cookies.
+
+
+Q: Maria was making baggies of cookies with 3 cookies in each bag. If she had 2 chocolate chip cookies and 16 oatmeal cookies, how many baggies could she make?
+
+
+Q: Sarah's old washing machine could only wash 5 pieces of clothing at a time. If she had to wash 43 shirts and 2 sweaters how many loads would she have to do?
+
+
+Q: Vanessa and her friends were recycling paper for their class. For every 9 pounds they recycled they earned one point. If Vanessa recycled 20 pounds and her friends recycled 16 pounds, how many points did they earn?
+
+
+Q: A pet shelter had 2 puppies when another 34 were brought in. If 4 puppies a day are adopted, how long would it take for all of them to be adopted?
+
+
+Q: Victor was helping the cafeteria workers pick up lunch trays, but he could only carry 7 trays at a time. If he had to pick up 23 trays from one table and 5 trays from another, how many trips will he make?

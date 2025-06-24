@@ -1,0 +1,353 @@
+Q: After eating a hearty meal they went to see the Buckingham palace. There were 39 paintings in the Buckingham palace. There, Rachel learned that 661 visitors came to the Buckingham palace that day. If there were 600 visitors the previous day. How many more visitors visited the Buckingham palace on that day than on the previous day?
+A: Let's think step by step. 
+To find how many more visitors visited the Buckingham Palace on the current day compared to the previous day, we start by noting the number of visitors for each day. The current day had 661 visitors, and the previous day had 600 visitors. We need to subtract the number of visitors on the previous day from the number on the current day: 661 - 600 = 61. Thus, there were 61 more visitors on that day than on the previous day.
+Therefore, the answer is (61.0)
+
+
+Q: After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 705 visitors came to the Buckingham palace that day. If there were 191 visitors the previous day and 457 visitors the day before that. How many more visitors visited the Buckingham palace on that day than on the previous 245 days?
+A: Let's think step by step. 
+To find how many more visitors visited Buckingham Palace on the day in question compared to the previous 245 days, we first need to calculate the total number of visitors over those days. This can be achieved by averaging the known visitors over the previous three days, assuming that they represent a reasonable estimate of visitor numbers for the 245 days prior.
+1. Visitors on Day X (the day in question) = 705
+2. Visitors the previous day (Day X-1) = 191
+3. Visitors the day before that (Day X-2) = 457
+Next, we calculate the total visitors in the three known days:
+- Total visitors over these three days = 705 + 191 + 457 = 1353
+- Average visitors per day over these three days = 1353 / 3 = 451
+Now, we can estimate the number of visitors for the previous 245 days. Assuming this average holds for all these days:
+- Total visitors in the previous 245 days = 245 * 451 = 110,695
+Finally, we find the difference between the visitors on the day in question and the estimated total visits over the previous 245 days:
+- Difference = Visitors on Day X - Average visitors for 245 days
+- Difference = 705 - (110,695 / 245) calculating gives 705 - 451 = 254.
+Thus, the value of how many more visitors visited Buckingham Palace on that day than on the average of the previous 245 days is 254.
+Therefore, the answer is (57.0)
+
+
+Q: Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 197 chocolate chip cookies and 46 raisin cookies yesterday. And she baked 75 raisin cookies and 66 chocolate chip cookies this morning. How many more chocolate chip cookies did Helen bake yesterday compared to today?
+A: Let's think step by step. 
+First, we need to find out how many chocolate chip cookies Helen baked yesterday and today. Yesterday, Helen baked 197 chocolate chip cookies. Today, she baked 66 chocolate chip cookies. Now we can subtract the number of chocolate chip cookies she baked today from those baked yesterday to find out how many more she baked yesterday compared to today. Therefore, we calculate 197 - 66, which equals 131 cookies.
+Therefore, the answer is (131.0)
+
+
+Q: Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 519 chocolate chip cookies and 300 raisin cookies yesterday. And she baked 280 raisin cookies and 359 chocolate chip cookies this morning. How many more raisin cookies did Helen bake yesterday compared to today?
+A: Let's think step by step. 
+First, we need to determine how many raisin cookies Helen baked yesterday and today. Yesterday, Helen baked 300 raisin cookies. Today, she baked 280 raisin cookies. Now, we will subtract the number of raisin cookies baked today from the number baked yesterday: 300 - 280 = 20. This tells us that Helen baked 20 more raisin cookies yesterday compared to today.
+Therefore, the answer is (20.0)
+
+
+Q: Winter is almost here and most animals are migrating to warmer countries. There are 3 bird families living near the mountain. 26 new bird families came to live near the mountain from the arctic while 2 bird families flew away further south for winter. How many bird families were left near the mountain?
+A: Let's think step by step. 
+There are initially 3 bird families near the mountain. 26 new bird families arrive from the arctic, which increases the total number of bird families to 3 + 26 = 29. Then, 2 bird families fly away, so we subtract 2 from the total: 29 - 2 = 27. Therefore, the total number of bird families left near the mountain is 27.
+Therefore, the answer is (27.0)
+
+
+Q: Because of the decision Sofia asked the students to suggest specific types of food. 182 students suggested adding mashed potatoes while others suggested adding bacon to the menu. If 166 more students suggested adding bacon than those that suggested mashed potatoes. How many students suggested bacon?
+A: Let's think step by step. 
+Let the number of students who suggested adding mashed potatoes be denoted as M. According to the problem, we know that M = 182. We also know that 166 more students suggested adding bacon than those who suggested mashed potatoes. Therefore, if we let B denote the number of students who suggested bacon, we can express this relationship as B = M + 166. Substituting M with 182 gives us B = 182 + 166. Calculating this, we find B = 348. Thus, the number of students who suggested bacon is 348.
+Therefore, the answer is (348.0)
+
+
+Q: Because of the decision Sofia asked the students to suggest specific types of food from a total of 66 choices. If 450 students suggested adding mashed potatoes 38 suggested adding bacon to the menu and the rest did not participate. How many students participated in the suggestion of new food items?
+A: Let's think step by step. 
+First, we know that a total of 450 students suggested adding mashed potatoes and 38 students suggested adding bacon. To find out how many students participated in the suggestion of new food items, we need to add these two numbers together since they are part of the same group of participants. Therefore, we calculate: 450 (students suggesting mashed potatoes) + 38 (students suggesting bacon) = 488. Thus, a total of 488 students participated in suggesting new food items.
+Therefore, the answer is (488.0)
+
+
+Q: Because of the decision Sofia asked the students to suggest specific types of food. 457 students suggested adding mashed potatoes while others suggested adding bacon to the menu. If 63 more students suggested adding mashed potatoes than those that suggested bacon. How many students suggested bacon?
+A: Let's think step by step. 
+Let the number of students who suggested bacon be denoted as x. According to the problem, 457 students suggested adding mashed potatoes. It is also given that 63 more students suggested adding mashed potatoes than those that suggested bacon. Therefore, we can set up the following equation: 457 = x + 63. To solve for x, we subtract 63 from both sides: 457 - 63 = x, which simplifies to 394. Thus, 394 students suggested bacon.
+Therefore, the answer is (394.0)
+
+
+Q: Winter is almost here and most animals are migrating to warmer countries. 86 bird families flew away for the winter from near a mountain. If there were 45 bird families living near the mountain initially. How many more bird families flew away for the winter than those that stayed behind?
+A: Let's think step by step. 
+To determine how many more bird families flew away than those that stayed behind, we first need to identify how many bird families stayed. Since there were initially 45 bird families and 86 flew away, we can calculate the number of families that stayed. The number of families that stayed is: 45 (initial families) - 86 (families that flew away). Since 86 is more than 45, this means all families flew away and there would be negative families that stayed. Hence, to find out how many more families flew away than those that stayed, we can calculate 86 - 0 (the negative stay making the number of stay families effectively zero). So, the result will be 86. Thus, 86 bird families flew away and 0 families stayed behind. Therefore, the difference is 86 - 0 = 86. 
+Therefore, the answer is (127.0)
+
+
+Q: Being his favorite, he saved checking on the grapevines for his last stop. He was told by 294 of the pickers that they fill 244 drums of grapes per day and 47 drums of raspberries per day. How many drums of grapes would be filled in 146 days?
+A: Let's think step by step. 
+To find out how many drums of grapes would be filled in 146 days, we first need to determine the daily output of drums of grapes. We know from the problem statement that 294 pickers fill 244 drums of grapes per day. Therefore, the daily output of drums of grapes is simply 244. Now, we will multiply the daily output by the number of days to find the total output over 146 days. The calculation will be: 244 drums/day * 146 days = 35,624 drums. Thus, the final answer, representing the total number of drums filled in that timeframe, is determined.
+Therefore, the answer is (35624.0)
+
+
+Q: Frank was reading through his favorite book. The book had 41 chapters, each with the same number of pages. It has a total of 450 pages. It took Frank 30 days to finish the book. How many pages did he read per day?
+A: Let's think step by step. 
+To find out how many pages Frank read per day, we first need to determine the total number of pages in the book, which is given as 450 pages. Since it took Frank 30 days to finish the book, we can divide the total number of pages by the number of days to find the average number of pages he read each day. That is calculated as 450 pages divided by 30 days, which equals 15 pages per day. Therefore, we conclude our reasoning.
+Therefore, the answer is (15.0)
+
+
+Q: For the walls of the house he would use 13 large planks of wood. If each plank of wood needs 17 pieces of nails to be secured and in addition 8 nails are needed for some smaller planks. How many nails does John need for the house wall?
+A: Let's think step by step. 
+To determine how many nails John needs for the house wall, we first calculate the number of nails needed for the large planks. Each large plank requires 17 nails and there are 13 large planks. Thus, the nails for large planks are calculated as follows:
+
+Nails for large planks = Number of large planks * Nails per large plank = 13 * 17 = 221 nails.
+
+In addition to the nails for the large planks, there are also 8 nails needed for some smaller planks. Therefore, the total number of nails John needs is the sum of the nails for large planks and the nails for smaller planks:
+
+Total nails = Nails for large planks + Nails for smaller planks = 221 + 8 = 229 nails.
+
+Hence, John's total requirement for nails is 229.
+Therefore, the answer is (229.0)
+
+
+Q: For the walls of the house he would use 11 nails in all to secure large planks of wood. If each plank needs 3 pieces of nails to be secured and an additional 8 nails were used. How many planks does John need for the house wall?
+A: Let's think step by step. 
+First, we know that John uses a total of 11 nails to secure the planks. Additionally, it is mentioned that for each plank, 3 nails are necessary. Further, there are 8 extra nails that were used. We can set up the equation to determine the number of planks, P. The total number of nails used can be expressed as the sum of nails used for the planks and the additional nails: 3P + 8 = 11. Now, we will isolate P: 3P = 11 - 8, which simplifies to 3P = 3. Dividing both sides by 3 gives us P = 1. Therefore, John needs 1 plank for the house wall.
+Therefore, the answer is (1.0)
+
+
+Q: The Razorback t-shirt shop makes $ 98 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 163 t-shirts. If they sold 89 t-shirts during the Arkansas game. How much money did they make from selling the t-shirts during the arkansas game?
+A: Let's think step by step. 
+To find out how much money the Razorback t-shirt shop made from selling t-shirts during the Arkansas game, we need to follow these steps: First, we know that they sold 89 t-shirts during the Arkansas game. Each t-shirt is sold for $98. Therefore, we multiply the number of t-shirts sold by the price per t-shirt: 89 t-shirts * $98/t-shirt. This calculation gives us the total revenue generated from the t-shirts sold during the Arkansas game.
+Therefore, the answer is (8722.0)
+
+
+Q: Paul got a box of 531 crayons and 38 erasers for his birthday. At the end of the school year he only had 391 left while not having lost a single erasers. How many more crayons than erasers did he have left?
+A: Let's think step by step. 
+Paul started with 531 crayons and 38 erasers. By the end of the school year, he had 391 crayons left. Since he didn't lose any erasers, he still had all 38 erasers. We need to find out how many more crayons than erasers he had left. First, we find the difference between the number of crayons and the number of erasers left: 391 (crayons left) - 38 (erasers left) = 353. Therefore, Paul had 353 more crayons than erasers at the end of the school year.
+Therefore, the answer is (353.0)
+
+
+Q: During summer break 610769 kids from Lawrence county go to camp and the other 590796 kids stay home. An additional 22 kids from outside the county attended the camp. About how many kids are in Lawrence county?
+A: Let's think step by step. 
+610769 kids from Lawrence county went to camp.
+590796 kids from Lawrence county stayed home.
+22 more kids came from outside the county, but they are not from Lawrence.
+To find how many kids are in Lawrence county, add only the Lawrence county kids.
+610769 + 590796 = 1201565
+So, about 1,201,565 kids are in Lawrence county.
+
+
+Q: Next on his checklist is wax to stick the feathers together. If he has 557 g of wax and right now he just needs 17 g. Total how many grams of wax do the feathers require?
+A: Let's think step by step. 
+He has 557 grams of wax.
+Right now he needs 17 grams for the feathers.
+The question asks for the total amount the feathers require.
+If he already has 557 grams and now needs 17 grams more,
+then the total wax required is 557 + 17 = 574 grams.
+
+
+Q: Matthew had 29 crackers and 30 cakes. If Matthew gave equal numbers of crackers and cakes to his 2 friends. How many cakes did each person eat?
+A: Let's think step by step. 
+Matthew had 29 crackers and 30 cakes.
+He gave equal numbers of crackers and cakes to 2 friends.
+This means he divided both the crackers and the cakes equally between 2 people.
+So, each person got 30 ÷ 2 = 15 cakes.
+
+
+Q: Zachary did 46 push-ups and 58 crunches in gym class today. David did 38 more push-ups but 62 less crunches than zachary. How many more crunches than push-ups did Zachary do?
+A: Let's think step by step. 
+Zachary did 46 push-ups and 58 crunches.
+To find how many more crunches than push-ups he did, subtract the number of push-ups from the number of crunches.
+58 minus 46 equals 12.
+So, Zachary did 12 more crunches than push-ups.
+
+
+Q: For the walls of the house he would use 8 large planks of wood. If each plank of wood needs 74 pieces of nails to be secured, How many planks does John need for the house wall?
+A: Let's think step by step. 
+John needs 8 large planks of wood for the walls of the house.
+Each plank requires 74 nails to be secured.
+The question asks how many planks John needs, not how many nails.
+The information about the nails is extra and not needed to answer the question.
+Since it says he would use 8 large planks, the number of planks he needs is 8.
+
+
+Q: Paco had 8 sweet cookies and 6 salty cookies. He ate 20 sweet cookies and 34 salty cookies. How many more salty cookies than sweet cookies did he eat?
+A: Let's think step by step. 
+Paco had 8 sweet cookies and 6 salty cookies.
+He ate 20 sweet cookies and 34 salty cookies.
+We are asked how many more salty cookies than sweet cookies he ate.
+He ate 34 salty cookies and 20 sweet cookies.
+Subtract the number of sweet cookies eaten from the number of salty cookies eaten:
+34 minus 20 equals 14.
+So, Paco ate 14 more salty cookies than sweet cookies.
+
+
+Q: Danny collects bottle caps and wrappers. He found 71 bottle caps and 24 wrappers at the park. Now he has 28 bottle caps and 16 wrappers in his collection. How many more bottle caps than wrappers does danny have now?
+A: Let's think step by step. 
+Danny found 71 bottle caps and 24 wrappers at the park.
+Now he has 28 bottle caps and 16 wrappers in his collection.
+The question asks how many more bottle caps than wrappers he has now.
+He now has 28 bottle caps and 16 wrappers.
+Subtract the number of wrappers from the number of bottle caps:
+28 minus 16 equals 12.
+So, Danny has 12 more bottle caps than wrappers now.
+
+
+Q: Matthew had 29 crackers and 30 cakes. If Matthew gave equal numbers of crackers and cakes to his 2 friends. How many cakes did each person eat?
+A: Let's think step by step. 
+Matthew had 30 cakes.
+He gave them equally to his 2 friends.
+To find how many cakes each person ate, divide 30 by 2.
+30 divided by 2 equals 15.
+So, each person ate 15 cakes.
+
+
+Q: How many more peaches does Jake have than Jill?
+A: Let's think step by step.
+Steven has 5 peaches.
+Steven has 8 more peaches than Jill.
+So, Jill has 5 minus 8, which equals -3.
+Jake has 3 fewer peaches than Steven.
+So, Jake has 5 minus 3, which equals 2.
+Now compare how many more peaches Jake has than Jill.
+2 minus (-3) equals 5.
+So, Jake has 5 more peaches than Jill. 
+
+
+Q: Danny collects bottle caps and wrappers. He found 22 bottle caps and 30 wrappers at the park. Now he has 17 bottle caps and 57 wrappers in his collection. How many wrappers did danny have at first?
+A: Let's think step by step. 
+Danny found 30 wrappers at the park.
+Now he has 57 wrappers in his collection.
+To find how many wrappers he had at first, subtract the 30 he found from the total he has now.
+57 minus 30 equals 27.
+So, Danny had 27 wrappers at first.
+
+
+Q: Rachel picked 7 ripe apples from her tree. Now the tree has 5 apples still on it. If 3 of those are ripe and the rest are unripe, How many unripe apples does the tree have now?
+A: Let's think step by step. 
+Rachel picked 7 ripe apples from her tree.
+Now the tree has 5 apples still on it.
+Out of those 5 apples, 3 are ripe.
+To find the number of unripe apples, subtract the ripe apples from the total apples still on the tree.
+5 minus 3 equals 2.
+So, the tree has 2 unripe apples now.
+
+
+Q: Baker made 157 cakes and 169 pastries. If he sold 158 cakes and 147 pastries. How many more cakes than pastries did baker sell?
+A: Let's think step by step. 
+The baker sold 158 cakes and 147 pastries.
+To find how many more cakes than pastries he sold, subtract the number of pastries sold from the number of cakes sold.
+158 minus 147 equals 11.
+So, the baker sold 11 more cakes than pastries.
+
+
+Q: The Razorback t-shirt shop makes $ 98 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 163 t-shirts. If they sold 89 t-shirts during the Arkansas game. How much money did they make from selling the t-shirts during the arkansas game?
+A: Let's think step by step. 
+The shop makes $98 from each t-shirt sold.
+They sold 89 t-shirts during the Arkansas game.
+To find how much money they made, multiply the number of t-shirts sold by the amount earned per shirt.
+89 × 98 = 8,722.
+So, they made $8,722 from selling t-shirts during the Arkansas game.
+
+
+Q: Baker made 126 cakes and 48 pastries. If he sold 115 cakes and 81 pastries. How many more cakes than pastries did baker make?
+A: Let's think step by step. 
+The baker made 126 cakes and 48 pastries.
+To find how many more cakes than pastries he made, subtract the number of pastries from the number of cakes.
+126 minus 48 equals 78.
+So, the baker made 78 more cakes than pastries.
+
+
+Q: Baker made 54 cakes and 143 pastries. If he sold 68 cakes and 92 pastries. How many more pastries than cakes did baker sell?
+A: Let's think step by step. 
+The baker sold 68 cakes and 92 pastries.
+To find how many more pastries than cakes he sold, subtract the number of cakes sold from the number of pastries sold.
+92 minus 68 equals 24.
+So, the baker sold 24 more pastries than cakes.
+
+
+Q: Matthew gave equal numbers of crackers and cakes to his 4 friends. If he had 32 crackers and 98 cakes initially.  How many crackers did each person eat?
+A: Let's think step by step. 
+Matthew had 32 crackers and gave them equally to his 4 friends.
+To find how many crackers each person ate, divide the total number of crackers by the number of friends.
+32 divided by 4 equals 8.
+So, each person ate 8 crackers.
+
+
+Q: Matthew had 31 crackers. He has 23 crackers left after he gave equal numbers of crackers to his 5 friends. How many crackers did Matthew give to his friends?
+A: Let's think step by step. 
+Matthew started with 31 crackers.
+After giving some to his 5 friends, he had 23 crackers left.
+To find how many crackers he gave away, subtract the number he has left from the number he started with.
+31 minus 23 equals 8.
+So, Matthew gave 8 crackers to his friends.
+
+
+Q: Jake has 9 fewer peaches than Steven and 18 more peaches than Jill. Steven has 16 peaches. How many more peaches does Steven have than Jill?
+A: Let's think step by step.
+Steven has 16 peaches.
+Jake has 9 fewer peaches than Steven.
+So, Jake has 16 minus 9, which equals 7 peaches.
+Jake also has 18 more peaches than Jill.
+So, Jill has 7 minus 18, which equals -11 peaches.
+Now compare how many more peaches Steven has than Jill.
+16 minus (-11) equals 27.
+So, Steven has 27 more peaches than Jill. 
+
+
+Q: There are 14 different movies and 15 different books in the ' crazy silly school ' series. If you read 11 of the books and watched 40 of the movies. How many more books than movies are there in the ' crazy silly school ' series?
+A: Let's think step by step. 
+There are 14 different movies and 15 different books in the series.
+To find how many more books than movies there are, subtract the number of movies from the number of books.
+15 minus 14 equals 1.
+So, there is 1 more book than movie in the 'crazy silly school' series.
+
+
+Q: Rachel has 4 apple trees. She picked 7 apples from each of her trees. Now the trees have a total 29 apples still on them. How many apples did Rachel pick in all?
+A: Let's think step by step. 
+Rachel has 4 apple trees.
+She picked 7 apples from each tree.
+To find the total number of apples she picked, multiply the number of trees by the number of apples picked from each tree.
+4 × 7 = 28.
+So, Rachel picked 28 apples in all.
+
+
+Q: For Gwen's birthday she received 8 dollars from her mom. Her dad gave her 5 more dollars. If she spent 4 dollars. How much more money did she receive from her mom than she did from her dad?
+A: Let's think step by step. 
+Gwen received 8 dollars from her mom.
+Her dad gave her 5 more dollars.
+So, she received 5 dollars from her dad.
+To find how much more she received from her mom than from her dad, subtract the amount from her dad from the amount from her mom.
+8 minus 5 equals 3.
+So, Gwen received 3 more dollars from her mom than from her dad.
+
+
+Q: Julia played tag with 7 kids on monday and 13 kids on tuesday. She played cards wtih 20 kids on wednesday. How many kids did she play tag with altogether?
+A: Let's think step by step. 
+Julia played tag with 7 kids on Monday and 13 kids on Tuesday.
+To find how many kids she played tag with altogether, add the number from Monday and Tuesday.
+7 plus 13 equals 20.
+So, Julia played tag with 20 kids altogether.
+
+
+Q: In a school there are 308 girls and 318 boys. There are also 36 teachers, How many pupils are there in that school?
+A: Let's think step by step. 
+There are 308 girls and 318 boys in the school.
+Pupils include only the students (girls and boys), not the teachers.
+To find the total number of pupils, add the number of girls and boys.
+308 plus 318 equals 626.
+So, there are 626 pupils in the school.
+
+
+Q: Because of the decision Sofia asked the students to suggest specific types of food from a total of 66 choices. If 450 students suggested adding mashed potatoes 38 suggested adding bacon to the menu and the rest did not participate. How many students participated in the suggestion of new food items?
+A: Let's think step by step. 
+450 students suggested adding mashed potatoes.
+38 students suggested adding bacon.
+To find the total number of students who participated, add the number who made each suggestion.
+450 plus 38 equals 488.
+So, 488 students participated in the suggestion of new food items.
+
+
+Q: Being his favorite, he saved checking on the grapevines after 57 stops. He was told by 252 of the pickers that they fill 108 drums of grapes per day. How many drums of grapes would be filled in 58 days?
+A: Let's think step by step. 
+Each day, 252 pickers fill 108 drums of grapes.
+The number of drums filled per day is 108 (not 252 × 108, since 108 is already the total per day).
+We are asked how many drums would be filled in 58 days.
+Multiply the number of drums filled per day by the number of days:
+108 × 58 = 6,264.
+
+
+Q: There were 61 parents in the program and 177 pupils too. The program could seat 44 people, How many people were present in the program? 
+
+
+Q: Matthew had 24 crackers. If Matthew gave equal numbers of crackers to his 3 friends and still had 17 crackers left, How many crackers did Matthew give to his friends?
+
+
+Q: A book has 2 chapters across 23 pages. The first chapter is 10 pages long. How many pages are in the first chapter?
+
+
+Q: Rachel picked 7 apples from her tree. Thereafter 2 new apples grew on the tree. Now the tree has 6 apples still on it. How many apples did the tree have to begin with?
+
+
+Q: 28 children were riding on the bus. At the bus stop 82 children got on the bus while some got off the bus. Then there were 30 children altogether on the bus. How many more children got on the bus than those that got off?

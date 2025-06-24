@@ -1,0 +1,353 @@
+Q: Carol was sending out birthday invitations to her friends. If each package of invitations she bought had 9 invitations in it and she bought 5 packs, how many friends can she invite?
+A: Let's think step by step. 
+Each pack has 9 invitations, and Carol bought 5 packs.
+Total invitations = 9 × 5 = 45.
+So, Carol can invite 45 friends.
+
+
+Q: Mrs. Hilt bought 3 pizzas for $8 each. What was the total amount she paid for the three pizzas?
+Answer: Let's think step by step.
+The total amount Mrs. Hilt paid for the three pizzas can be calculated as follows:\nTotal amount = Number of pizzas x Price of each pizza\n= 3 pizzas x $8 each\n= $24\nTherefore, the total amount Mrs. Hilt paid for the three pizzas is $24. 
+
+
+Q: Bob who is Sam's next door neighbor decided that he will accompany Sam home. He also took his share which consists of 15 chewing gums, 20 chocolate bars and 15 assorted candies. How many candies did he get?
+Answer: Let's think step by step.
+To find out how many candies Bob got, we need to subtract the number of candies he gave to Sam from the total number of candies he had.\nBob had 15 chewing gums, 20 chocolate bars, and 15 assorted candies. If he gave Sam 15 candies, that means Bob has 15 + 20 + 15 = 50 candies left.\nTherefore, Bob got 50 candies.
+
+
+Q: Cristina baked 17 croissants. If she planned to serve this equally to her seven guests , how many will each have?
+A: Let's think step by step. 
+Cristina has 17 croissants and 7 guests.
+To divide equally, divide 17 by 7.
+17 ÷ 7 = 2 remainder 3.
+Each guest gets 2 croissants.
+
+
+Q: A sandbox is 312 centimeters long and 146 centimeters wide, How many square centimeters of ground does the sandbox cover?
+A: Let's think step by step. 
+The sandbox is a rectangle.
+To find the area, multiply length by width.
+312 × 146 = 45,552.
+The sandbox covers 45,552 square centimeters.
+
+
+Q: 89 cookies are being shared equally among 4 people.","question":"How many does each person get?
+A: Let's think step by step. 
+Divide 89 by 4.
+89 ÷ 4 = 22 remainder 1.
+Each person gets 22 cookies.
+
+
+Q: There are 56 students in the class. The teacher wants to split them into two groups. The first group has 24 students, How many more students will there be in the second group?
+A: Let's think step by step. 
+There are 56 students in total.
+The first group has 24 students.
+Subtract to find the second group: 56 - 24 = 32.
+The second group has 32 students.
+32 - 24 = 8.
+There will be 8 more students in the second group.
+
+
+Q: A bus can transport 48 passengers. If a school of 1,230 students and teachers are going on a field trip,","question":"how many passengers are there on the bus that is not fully occupied?
+A: Let's think step by step. 
+Each bus holds 48 passengers.
+Divide 1,230 by 48: 1,230 ÷ 48 = 25 remainder 30.
+25 full buses carry 25 × 48 = 1,200 passengers.
+1,230 - 1,200 = 30 passengers left.
+One more bus is needed for the remaining 30 passengers.
+That bus is not full.
+So, 30 passengers are on the bus that is not fully occupied.
+
+
+Q: The capacity of a tank is 32 gallons. If a company bought 728 gallons of oil, how much oil is in the tank that is not full?
+A: Let's think step by step. 
+Each tank holds 32 gallons.
+Divide 728 by 32: 728 ÷ 32 = 22 remainder 24.
+22 full tanks hold 22 × 32 = 704 gallons.
+728 - 704 = 24 gallons.
+So, 24 gallons are in the tank that is not full.
+
+
+Q: 86 students are going hiking. Each school- bus can take 9 students. How many school-buses are needed?
+A: Let's think step by step. 
+Each bus holds 9 students.
+Divide 86 by 9: 86 ÷ 9 = 9 remainder 5.
+9 full buses carry 9 × 9 = 81 students.
+5 students are left.
+One more bus is needed for the remaining 5 students.
+So, 10 school-buses are needed.
+
+
+Q: The teacher gave 42 pencils to 12 students equally. How many pencils did each student get?
+A: Let's think step by step. 
+Divide 42 by 12:
+42 ÷ 12 = 3 remainder 6.
+Each student gets 3 pencils.
+
+
+Q: A transport company bought 95 tons of oil. A large barrel can hold 6 tons of oil and a small barrel can hold 5 tons of oil. In order to use the least number of barrels and have every barrel fully occupied, how many large barrels should be used?
+A: Let's think step by step. 
+First, use as many large barrels as possible to minimize total barrels.
+Each large barrel holds 6 tons, so try dividing 95 by 6.
+95 ÷ 6 = 15 remainder 5.
+That means 15 large barrels use up 90 tons.
+The remaining 5 tons fit exactly into one small barrel.
+Total barrels used: 15 large + 1 small = 16 barrels.
+This is the minimum number.
+So, 15 large barrels should be used.
+
+
+Q: A ballet class wants to divide its 90 members into some large groups at 7 members each and some small groups at 3 members each. In order to make the least number of groups, how many large groups should be made?
+A: Let's think step by step. 
+Divide 90 by 7 to use as many large groups as possible.
+90 ÷ 7 = 12 remainder 6.
+So, 12 large groups use 84 members.
+6 members are left, which fit exactly into 2 small groups of 3.
+Total groups = 12 + 2 = 14, which is minimal.
+So, 12 large groups should be made.
+
+
+Q: Betty has 367 beads and wants to use all the beads to make necklaces. If she wants to make 15 necklaces with each having the same number of beads, how many more beads does she need?
+A: Let's think step by step. 
+Divide 367 by 15 to see how many beads per necklace.
+367 ÷ 15 = 24 remainder 7.
+She can make 15 necklaces with 24 beads each using 360 beads.
+But 15 × 25 = 375 beads are needed to make 15 equal necklaces.
+375 - 367 = 8.
+So, she needs 8 more beads.
+
+
+Q: Mindy's toothbrush is 17 centimeters long. Cesar's toothbrush is 1 centimeter longer than Mindy's. Whose toothbrush is longer?
+A: Let's think step by step. 
+Mindy’s toothbrush is 17 cm.
+Cesar’s is 1 cm longer than Mindy’s: 17 + 1 = 18 cm.
+So, Cesar’s toothbrush is longer.
+
+
+Q: The weight of 5 diamonds is 100 g. The total weight of 4 diamonds and 2 jades is 140 g. How much heavier is a jade than a diamond?
+A: Let's think step by step. 
+The weight of 5 diamonds is 100 g → each diamond weighs 100 ÷ 5 = 20 g.
+The total weight of 4 diamonds and 2 jades is 140 g.
+4 diamonds weigh 4 × 20 = 80 g.
+So, 2 jades weigh 140 - 80 = 60 g → each jade weighs 60 ÷ 2 = 30 g.
+A jade is 30 - 20 = 10 g heavier than a diamond.
+
+
+Q: A contractor was buying wall outlets for a new house he was building. Each room needed 6 outlets. If the house has 7 rooms, how many outlets does he need total?
+A: Let's think step by step. 
+Each room needs 6 outlets, and there are 7 rooms.
+Total outlets = 6 × 7 = 42.
+The contractor needs 42 outlets in total.
+
+
+Q: There were nine kinds of sandwiches on the menu. Unfortunately, five of them had been sold out, how many kinds of sandwiches do they actually provide now?
+A: Let's think step by step. 
+There were 9 kinds of sandwiches on the menu.
+5 were sold out, so remaining = 9 − 5 = 4.
+They actually provide 4 kinds of sandwiches now.
+
+
+Q: Cody had a bag of marbles. Later he gave five to his brother. Now Cody has seven marbles. How many marbles did Cody have to start with? 
+A: Let's think step by step. 
+Cody has 7 marbles now, and he gave 5 to his brother.
+To find how many he had at the start: 7 + 5 = 12.
+Cody originally had 12 marbles.
+
+
+Q: For Halloween Will got fifteen pounds of candy. After giving some to Haley, he had nine pounds left. How many pounds did he give to Haley?
+A: Let's think step by step. 
+Will started with 15 pounds of candy and had 9 pounds left after giving some to Haley.
+Amount given to Haley = 15 − 9 = 6 pounds.
+So, Will gave 6 pounds of candy to Haley.
+
+
+Q: Ned gave away thirteen of his video games to a friend. Now Ned has six games. How many games did Ned have before he gave the games away? 
+A: Let's think step by step. 
+Ned has 6 games now and gave away 13 games.
+To find how many he had before: 6 + 13 = 19.
+Ned originally had 19 video games.
+
+
+Q: Isabel had some candy. She gave her friend twenty-seven pieces and had sixty-one left. How many pieces did she have to start with?
+A: Let's think step by step. 
+Isabel gave away 27 pieces of candy and had 61 left.
+To find how many she had to start with: 27 + 61 = 88.
+Isabel originally had 88 pieces of candy.
+
+
+Q: Jessie weighted seventy-four kilograms. After she started to go jogging everyday, now she weights sixty-seven kilograms. How much weight did she lose in the past?
+A: Let's think step by step. 
+Jessie originally weighed 74 kilograms and now weighs 67 kilograms.
+Weight lost = 74 − 67 = 7 kilograms.
+Jessie lost 7 kilograms.
+
+
+Q: Victor was selling chocolate for a school fund raiser. On the first week he sold 75. On the second week he sold 67. On the third week he sold 75. On the fourth week he sold 70 and on the last week he sold 68. What is the mean of the chocolate bars he sold?
+A: Let's think step by step. 
+To find the mean (average) number of chocolate bars Victor sold:
+Add up the weekly sales:
+75 + 67 + 75 + 70 + 68 = 355
+Number of weeks = 5
+Mean = 355 ÷ 5 = 71
+So, the mean number of chocolate bars Victor sold is 71.
+
+
+Q: It's spring break at Rosewood High so Rachel and her family decided to take a trip across Europe. Since Rachel has always been fascinated by the French people, they began their tour with a visit to France. During their stay there, Rachel went to the famous Eiffel Tower. If she climbed 567 flights of stairs going up and 325 going down, what is the total number of steps that she took?
+A: Let's think step by step. 
+To find the total number of steps Rachel took, we need to sum the number of flights of stairs she climbed going up and going down. She climbed 567 flights of stairs going up and 325 flights going down. So, we add these two numbers together: 567 + 325. Performing this addition gives us: 567 + 325 = 892. Therefore, the total number of steps Rachel took is 892.
+Therefore, the answer is (892 (steps))
+
+
+Q: On the first Saturday of spring, Jane woke up early to enjoy the whole day and help with chores at home. Jane had been saving large empty cans to serve as pots for sunflowers. If she has 54 sunflower seeds and there are 9 cans, how many seeds will be placed in each can if she places an equal number of seeds in each can?
+A: Let's think step by step. 
+To determine how many sunflower seeds Jane will place in each can, we start by taking the total number of seeds she has, which is 54. She has 9 cans to distribute these seeds into. We need to divide the total number of seeds by the number of cans to find out how many seeds will go into each can. We perform the division: 54 seeds ÷ 9 cans = 6 seeds per can. Therefore, each can will have an equal number of 6 seeds.
+Therefore, the answer is (6 (seeds))
+
+
+Q: Chloe agreed to wash all of the windows in Todd's giant art studio. There are 400 square panes of glass each measuring 2.5 feet on each side. Todd offered to pay 10 cents per square foot. Chloe said she would rather get paid 60 cents a pane. Todd agreed and was happy that he was actually going to save money. How much money will Todd save?
+A: Let's think step by step. 
+1. First, we calculate the area of one square pane of glass. Each pane measures 2.5 feet on each side. Therefore, the area of one pane is: 2.5 feet * 2.5 feet = 6.25 square feet.  
+2. There are 400 panes in total, so the total area of all the windows is: 400 panes * 6.25 square feet/pane = 2500 square feet.  
+3. Todd's original offer was to pay 10 cents per square foot. Therefore, the total payment based on this rate would be: 2500 square feet * 0.10 dollars/square foot = 250 dollars.  
+4. Chloe proposed instead to be paid 60 cents per pane. Therefore, the total payment based on her proposal would be: 400 panes * 0.60 dollars/pane = 240 dollars.  
+5. To find out how much money Todd will save, we subtract the total cost he would pay Chloe from the total cost he would have paid based on the original rate: 250 dollars - 240 dollars = 10 dollars.  
+Therefore, Todd saves 10 dollars.
+Therefore, the answer is (10 (cents))
+
+
+Q: It's Halloween in Chicago. Bob, Mary, John, Sue and Sam dressed as superheroes and went out to do some trick or treating. After passing through the houses on Main Street, the five friends counted how much candy they have. If Bob has 10 candies, Mary has 5, Sue has 20, John has 5 as well and Sam has also 10 candies. How many candies did they have together?
+A: Let's think step by step. 
+To find out how many candies the five friends have together, we need to add the number of candies each friend has. Bob has 10 candies, Mary has 5, Sue has 20, John has 5, and Sam has 10. We can do this step by step: 10 (Bob) + 5 (Mary) + 20 (Sue) + 5 (John) + 10 (Sam) = 50. Therefore, the total number of candies they have together is 50.
+Therefore, the answer is (50 (candies))
+
+
+Q: Penny's class is going to Animaland, the largest zoo on earth, for their science field trip. The zoo has a variety of wild animals in captivity. Their first destination was the aviary. The aviary has 3 species of eagles on show that day. They have 20 Bald Eagles, 15 Harpy Eagles, and 30 Crowned Eagles. How many eagles are on display that day?
+A: Let's think step by step. 
+To find the total number of eagles on display, we need to add the number of each species of eagle together. We have 20 Bald Eagles, 15 Harpy Eagles, and 30 Crowned Eagles. So we perform the following addition: 20 + 15 + 30. First, we add 20 and 15, which gives us 35. Next, we add 35 and 30, resulting in 65. Therefore, the total number of eagles on display that day is 65.
+Therefore, the answer is (65 (eagles))
+
+
+Q: Daniel and his brother Ben went to their grandfather's farm for a few weeks of vacation. During their stay at the farm, they were asked to take care of the animals. One day, his grandfather asked if he could count the total number of sheep that they have. If there are 3 herds of sheep and each herd has 20 sheep, how many sheep do they have in total?
+A: Let's think step by step. 
+To find the total number of sheep, we first need to determine how many sheep are in each herd and then multiply that by the number of herds. There are 3 herds of sheep, and each herd contains 20 sheep. So we will calculate the total as follows: Total sheep = Number of herds * Number of sheep in each herd. Therefore, Total sheep = 3 * 20 = 60.
+Therefore, the answer is (60 (sheep))
+
+
+Q: Lizzie lives in a very big and polluted city. Being an advocate for the environment, she organized a cleanup drive to help reduce the pollution. They started by cleaning the rivers that flow through and around the city. If her group was able to collect 387 pounds of garbage and another group gathered 39 pounds less than Lizzie's group, how much garbage were the two groups able to gather?
+A: Let's think step by step. 
+First, we need to determine how much garbage the other group gathered. Lizzie's group collected 387 pounds of garbage. The second group collected 39 pounds less than Lizzie's group. We can calculate the amount collected by the second group by subtracting 39 from 387. This gives us: 387 - 39 = 348 pounds. Now, we add the amounts collected by both groups to find the total: 387 + 348 = 735 pounds. Therefore, the total amount of garbage gathered by both groups is 735 pounds.
+Therefore, the answer is (735 (pounds))
+
+
+Q: It is Buddy's first day at a new school and he is feeling very nervous. His day begins with some bacon and egg prepared by his mother. After eating and preparing, Buddy headed out to catch the school bus from the nearest bus stop. Including Buddy, there were 39 students that got on the bus during the first stop. If 29 more students got on the bus at the second stop, how many students are riding the bus?
+A: Let's think step by step. 
+To find the total number of students riding the bus, we need to add the number of students from both stops. At the first stop, Buddy and 38 other students boarded the bus, making it a total of 39 students. At the second stop, an additional 29 students got on. Hence, the total number of students on the bus can be calculated as follows: 39 (from the first stop) + 29 (from the second stop) = 68. Therefore, the total number of students riding the bus is 68.
+Therefore, the answer is (68 (students))
+
+
+Q: When Jose rode on a bus, he noticed some people sitting. At the next bus stop, 5 people got on and 2 people got off. Two stops later, 7 people got on 15 people got off the bus at the terminal station. How many people were in the bus when Jose got on the bus?
+A: Let's think step by step.
+Let the number of people on the bus when Jose got on be x.
+At the first stop:
++5 got on, -2 got off → net change = +3
+Total now = x + 3
+At the terminal (two stops later):
++7 got on, -15 got off → net change = -8
+Total now = (x + 3) - 8 = x - 5
+At the terminal, the bus is empty, so:
+x - 5 = 0 → x = 5
+So, there were 5 people on the bus when Jose got on.
+
+
+Q: Cups are sold 5 to a package and plates are sold 10 to a package. If you want to have the same number of each item for a party, what is the least number of packages of each you need to buy?
+A: Let's think step by step.
+Cups come in packages of 5, and plates come in packages of 10. To have the same number of each, find the least common multiple (LCM) of 5 and 10, which is 10.
+You need 10 ÷ 5 = 2 packages of cups and 10 ÷ 10 = 1 package of plates.
+Answer: 2 packages of cups and 1 package of plates, so 3 packages.
+
+
+Q: I want to plant 45 sunflower plants, 81 corn plants and 63 tomato plants in my garden. If I put the same number of plants in each row and each row has only one type of plant, what is the greatest number of plants I can put in one row?
+A: Let's think step by step.
+Find the greatest number that evenly divides 45, 81, and 63.
+Find the prime factors of each number:
+45 = 3 × 3 × 5
+81 = 3 × 3 × 3 × 3
+63 = 3 × 3 × 7
+The common factor in all three numbers is 3 × 3 = 9.
+So the greatest number of plants in one row is 9.
+
+
+Q: A full moon occurs every 30 days. If the last full moon occurred on a Friday, how many days will pass before a full moon occurs again on a Friday?
+A: Let's think step by step.
+A full moon occurs every 30 days.
+The days of the week repeat every 7 days.
+Find the least common multiple (LCM) of 30 and 7 to determine when the full moon and Friday align again.
+LCM of 30 and 7 is 210.
+So, a full moon will occur on a Friday again in 210 days.
+
+
+Q: Mr. Bradley gave his class a math problem to solve. He said, \"Begin with the number 28. Add 12 to it. Then add 7 more.\" Ned followed the instructions perfectly but Billy subtracted 7. What is the difference between the boys' answers?
+A: Let's think step by step.
+Start with the number 28.
+Add 12: 28 + 12 = 40
+Add 7 more (Ned's steps): 40 + 7 = 47
+Billy subtracted 7 instead: 40 - 7 = 33
+Find the difference between Ned's and Billy's answers: 47 - 33 = 14
+Answer: 14
+
+
+Q: London is 11 years old and Blair is 16 years old. Several years ago, Blair was twice as old as London. How old was London then?
+A: Let's think step by step.
+Let the number of years ago be x.
+Then Blair’s age x years ago was 16 - x.
+London’s age x years ago was 11 - x.
+We know that 16 - x = 2 × (11 - x).
+Solve the equation:
+16 - x = 22 - 2x
+Add 2x to both sides: 16 + x = 22
+Subtract 16 from both sides: x = 6
+So, x = 6 years ago.
+London’s age then was 11 - 6 = 5
+Answer: 5
+
+
+Q: A worm has fallen into a hole that is 26 inches deep. It climbs up 8 inches and slides back 3 inches every day. How many days will it take the worm to reach the top?
+A: Let's think step by step.
+Each day, the worm climbs up 8 inches and slides back 3 inches, so it gains **5 inches per day**.
+However, on the **last day**, when the worm climbs the final 8 inches, it **does not slide back**, because it has already reached or passed the top.
+Let’s calculate:
+After **n** days, the worm gains 5 inches per day for (n − 1) days, and then climbs 8 inches on the last day:
+5 × (n − 1) + 8 ≥ 26
+5n − 5 + 8 ≥ 26
+5n + 3 ≥ 26
+5n ≥ 23
+n ≥ 4.6
+So the worm will reach the top on **day 5**.
+Answer: 5 days.
+
+
+Q: Sarah's Shipping and Ryan's Mail Services both ship packages. Sarah's trucks will only carry loads of 18 packages. In contrast, Ryan's trucks will only carry loads of 11 packages. If both businesses ended up shipping the same number of packages this morning, what is the minimum number of packages each must have shipped? 
+A: Let's think step by step.
+We are looking for the least common multiple (LCM) of 18 and 11.
+18 = 2 × 3²
+11 is a prime number
+Since they have no common factors other than 1, the LCM is:
+LCM(18, 11) = 18 × 11 = 198
+So, the minimum number of packages each must have shipped is 198.
+
+
+Q: Last season, Lisa's soccer team won 8 games and lost 6 games. Her cousin Susan's team won 17 games and lost 14 games. Which team had a higher ratio of wins to losses?
+
+
+Q: Ava and Shannon are baking pies for a bake sale. Ava baked 14 apple pies and 8 blueberry pies. Shannon baked 12 apple pies and 4 blueberry pies. Who baked a higher ratio of apple pies to blueberry pies?
+
+
+Q: A recipe for fruit punch says to use 8 ounces of orange juice for every 3 ounces of grape juice. Nicky used 72 ounces of orange juice. How many fewer ounces of grape juice were used?
+
+
+Q: For every 3 sit-ups Peter does, Greg does 4. Peter did 24 sit-ups. How many sit-ups did Greg do?
+
+
+Q: There are 43 empty seats and 7 occupied seats on an airplane. What is the ratio of the number of occupied seats to the total number of seats?
+
+

@@ -1,0 +1,295 @@
+Q: While playing a trivia game, Adam answered 5 questions correct in the first half and 5 questions correct in the second half. If each question was worth 5 points, what was his final score? 
+A: Let's think step by step. 
+Adam answered 5 questions correctly in the first half and 5 more in the second half, for a total of 5 + 5 = 10 correct questions.
+Each question was worth 5 points, so his final score is 10 × 5 = 50.
+Adam’s final score was **50 points**.
+
+
+Q: At the arcade Dave won 11 tickets. If he spent 5 tickets on a beanie and later won 10 more tickets, how many would he have? 
+A: Let's think step by step. 
+Dave originally won 11 tickets. He spent 5 tickets on a beanie, leaving him with 11 − 5 = 6 tickets.
+Then he won 10 more tickets, so his total is 6 + 10 = 16 tickets.
+Dave would have 16 tickets.
+
+
+Q: A store had 40 oranges in a bin. If they threw away 25 of the old ones and put 21 new ones in the bin how many would be in the bin? 
+A: Let's think step by step. 
+The store started with 40 oranges. They threw away 25 old ones, so 40 − 25 = 15 oranges remained.
+Then they added 21 new oranges: 15 + 21 = 36.
+So, there would be 36 oranges in the bin.
+
+
+Q: In fourth grade there were 4 students at the start of the year. During the year 3 students left and 42 new students came to school. How many students were in fourth grade at the end? 
+A: Let's think step by step. 
+There were 4 students at the start of the year. During the year, 3 students left, so:
+4 − 3 = 1 student remained.
+Then 42 new students joined:
+1 + 42 = 43 students.
+So, there were 43 students in fourth grade at the end of the year
+
+
+Q: A waitress put leftover tarts into the fridge on Thursday night . She noticed that the restaurant had 0.08333333333333333 tart filled with cherries , 0.75 tart filled with blueberries , and 0.08333333333333333 tart filled with peaches . How many leftover tarts did the restaurant have in all ? 
+A: Let's think step by step. 
+The total number of leftover tarts can be found by adding the number of tarts filled with cherries, blueberries, and peaches. 0.08333333333333333 + 0.75 + 0.08333333333333333 = 0.9166666666666667. Since the total number of leftover tarts is less than 1, the restaurant has no leftover tarts in total.
+Therefore, the answer is (0.9166666666666666)
+
+
+Q: Bonnie 's science class recorded the rainfall each day . They recorded 0.16666666666666666 centimeter of rain on Monday , 0.4166666666666667 centimeter of rain on Tuesday , and 0.08333333333333333 centimeter of rain on Wednesday . How many centimeters of rain did the class record in all ? 
+A: Let's think step by step. 
+To find the total rainfall, we need to add the rainfall for each day. Adding 0.16666666666666666, 0.4166666666666667, and 0.08333333333333333 gives us a total of 0.6666666666666667 centimeters of rain.
+Therefore, the answer is (0.6666666666666666)
+
+
+Q: Wendy was playing a video game and had 10 lives. In a hard part of the game she lost 6 lives. If she got 37 more lives in the next level, how many lives would she have? 
+A: Let's think step by step. 
+Wendy started with 10 lives. She lost 6 lives, leaving her with 4. Then she gained 37 more lives, so now she has 41 lives.
+
+
+Q: Isabel had 2 pages of math homework and 4 pages of reading homework. If each page had 5 problems on it, how many problems did she have to complete total? 
+A: Let's think step by step.
+Isabel had 2 pages of math homework and 4 pages of reading homework, making a total of 2 + 4 = 6 pages of homework.
+Each page had 5 problems, so the total number of problems is 6 × 5 = 30.
+Isabel had to complete 30 problems in total.
+
+
+Q: Benny received 79 dollars and 9 movie tickets for his birthday . He went to a sporting goods store and bought a baseball glove , baseball , and bat . He had 32 dollars over , how much did he spent on the baseball gear ? 
+A: Let's think step by step. 
+First, we need to subtract the value of the movie tickets from the total amount received. Then, we subtract the cost of the baseball glove, baseball, and bat from the remaining amount to find out how much was spent on the baseball gear.
+Therefore, the answer is (47)
+
+
+Q: While taking inventory at her pastry shop , Kelly realizes that she had 0.4 box of baking powder yesterday , but the supply is now down to 0.3 box . How much more baking powder did Kelly have yesterday ? 
+A: Let's think step by step. 
+To find out how much more baking powder Kelly had yesterday, we need to subtract the current supply from yesterday's supply. The calculation would be 0.4 - 0.3 = 0.1.
+Therefore, the answer is (0.1)
+
+
+Q: Last Saturday , Spencer walked all over town running errands . First , he walked 0.3 mile from his house to the library and 0.1 mile from the library to the post office . Then he walked 0.4 mile from the post office back home . How many miles did Spencer walk in all ? 
+A: Let's think step by step. 
+First, Spencer walked 0.3 miles from his house to the library and then 0.1 mile from the library to the post office. After that, he walked 0.4 mile from the post office back home. Adding all these distances together gives a total of 0.8 miles.
+Therefore, the answer is (0.8)
+
+
+Q: Joan joined her school 's band . She bought a trumpet for $ 149.16 , a music tool for $ 9.98 , and a song book which was $ 4.14 . Joan found $ 8.65 in her pocket . How much did Joan spend at the music store ? 
+A: Let's think step by step. 
+Joan bought a trumpet for $149.16, a music tool for $9.98, and a song book for $4.14. She also found $8.65 in her pocket. To find out how much she spent at the music store, we add up all the expenses: 149.16 + 9.98 + 4.14 = 163.28. Then we subtract the amount she found in her pocket: 163.28 - 8.65 = 154.63.
+Therefore, the answer is (163.28)
+
+
+Q: Hoping to be named Salesperson of the Month , Rosa called the names from 10.2 pages of the phone book last week . This week , she called the people listed on another 8.6 pages of the same phone book . How many pages worth of people did Rosa call in all ? 
+A: Let's think step by step. 
+Rosa called 10.2 pages of the phone book last week, and 8.6 pages this week. To find the total number of pages worth of people she called, we add the two amounts together: 10.2 + 8.6 = 18.8.
+Therefore, the answer is (18.8)
+
+
+Q:There are 43 pencils in the drawer and 19 pencils on the desk . Dan placed 16 pencils on the desk . How many pencils are now there in total ?  
+A: Let's think step by step. 
+There were originally 43 pencils in the drawer and 19 pencils on the desk. Dan then placed 16 more pencils on the desk. To find the total number of pencils now, we add all the pencils together: 43 from the drawer, 19 already on the desk, and 16 newly placed on the desk. So, 43 plus 19 plus 16 equals 78 pencils in total.
+
+
+Q: Joan found 79 seashells on the beach , she gave Mike 63 of the seashells . How many seashells does she now have ?
+A: Let's think step by step. 
+Joan originally found 79 seashells on the beach. She gave 63 of them to Mike. To find out how many seashells she has left, we subtract the number she gave away from the total she had. So, 79 minus 63 equals 16 seashells remaining.
+
+
+Q: Wendy was playing a video game where she scores 5 points for each treasure she finds. If she found 4 treasures on the first level and 3 on the second, what would her score be? 
+A: Let's think step by step. 
+Wendy scores 5 points for each treasure she finds. She found 4 treasures on the first level and 3 on the second, for a total of 4 + 3 = 7 treasures.
+To find her score, we multiply the number of treasures by the points per treasure:
+7 × 5 = 35
+Wendy’s score would be 35 points.
+
+
+Q: Christina just transferred $ 69 out of her bank account . As a result , the account now has $ 26935 in it . How much money was in the account before the transfer ? 
+A: Let's think step by step. 
+Christina transferred \$69 out of her bank account, and after the transfer, the account had \$26,935. To find out how much was in the account before the transfer, we add the amount she transferred to the current balance. So, \$26,935 plus \$69 equals \$27,004.
+
+
+Q: A cell phone company has a total of 7422 customers across the world . If 723 of its customers live in the United States , how many of its customers live in other countries ? 
+A: Let's think step by step. 
+The cell phone company has a total of 7,422 customers. Out of these, 723 customers live in the United States. To find out how many customers live in other countries, we subtract the number of U.S. customers from the total. So, 7,422 minus 723 equals 6,699 customers living in other countries.
+
+
+Q: At Lindsey 's Vacation Wear , 0.375 the garments are bikinis and 0.25 are trunks . What fraction of the garments are either bikinis or trunks ? 
+A: Let's think step by step. 
+At Lindsey's Vacation Wear, 0.375 of the garments are bikinis and 0.25 are trunks. To find the fraction of garments that are either bikinis or trunks, we add the two fractions together.
+0.375 plus 0.25 equals 0.625.
+So, 0.625 of the garments are either bikinis or trunks.
+
+
+Q: In Shannon 's apartment complex , 0.16666666666666666 the apartments are one-bedroom apartments and 0.3333333333333333 are two-bedroom apartments . What fraction of the apartments are either 1 - or two-bedroom apartments ? 
+A: Let's think step by step. 
+In Shannon's apartment complex, approximately 0.1667 of the apartments are one-bedroom, and approximately 0.3333 are two-bedroom. To find the fraction of apartments that are either one- or two-bedroom, we add the two values together:
+0.1667 + 0.3333 = 0.5
+So, 0.5 of the apartments are either one-bedroom or two-bedroom.
+
+
+Q: Dan has 32 green and 38 violet marbles . Mike took 23 of Dan 's green marbles . How many green marbles does Dan now have ? 
+A: Let's think step by step. 
+Dan originally had 32 green marbles. Mike took 23 of them. To find out how many green marbles Dan has now, we subtract the number Mike took from the original amount.
+So, 32 minus 23 equals 9.
+Dan now has 9 green marbles.
+
+
+Q: Benny found 66 seashells and 49 starfish on the beach . He gave 52 of the seashells to Jason . How many seashells does Benny now have ? 
+A: Let's think step by step. 
+Benny originally found 66 seashells. He gave 52 of them to Jason. To find out how many seashells Benny has now, we subtract the number he gave away from the original amount.
+So, 66 minus 52 equals 14.
+Benny now has 14 seashells.
+
+
+Q: There were a total of 8 football games this year , 4 are played at night . Keith missed 4 of the games . How many football games did Keith go to in total ? 
+A: Let's think step by step. 
+There were a total of 8 football games this year. Keith missed 4 of them. To find out how many games he went to, we subtract the number he missed from the total.
+So, 8 minus 4 equals 4.
+Keith went to 4 football games in total.
+
+
+Q: Rachel was organizing her book case making sure each of the shelves had exactly 9 books on it. If she had 6 shelves of mystery books and 2 shelves of picture books, how many books did she have total? 
+A: Let's think step by step. 
+Rachel had 6 shelves of mystery books and 2 shelves of picture books, for a total of 6 + 2 = 8 shelves.
+Each shelf had 9 books on it, so to find the total number of books, we multiply:
+8 × 9 = 72
+Rachel had 72 books in total.
+
+
+Q: Joan has 47 green and 48 red marbles . Fred took 24 of Joan 's green marbles . How many green marbles does Joan now have ? 
+A: Let's think step by step. 
+Joan originally had 47 green marbles. Fred took 24 of them. To find out how many green marbles Joan has now, we subtract the number Fred took from the original amount.
+So, 47 minus 24 equals 23.
+Joan now has 23 green marbles.
+
+
+Q: Tom bought a skateboard for $ 9.46 , and spent $ 9.56 on marbles . Tom also spent $ 14.50 on shorts . In total , how much did Tom spend on toys ? 
+A: Let's think step by step. 
+Tom spent $9.46 on a skateboard, $9.56 on marbles, and $14.50 on shorts. To find out how much he spent on toys, we only include the skateboard and marbles, since shorts are not toys.
+So, we add $9.46 and $9.56:
+$9.46 + $9.56 = $19.02
+Tom spent $19.02 on toys in total.
+
+
+Q: There are 6 pencils and 7 rulers in the drawer . Benny placed 3 pencils in the drawer . How many pencils are now there in total ? 
+A: Let's think step by step. 
+There were originally 6 pencils in the drawer. Benny placed 3 more pencils in the drawer. To find the total number of pencils now, we add the two amounts together:
+6 plus 3 equals 9.
+There are now 9 pencils in the drawer.
+
+
+Q: Joan grew 8 watermelons and 4 turnips . Tom grew 9 watermelons . How many watermelons did they grow in total ? 
+A: Let's think step by step. 
+Joan grew 8 watermelons, and Tom grew 9 watermelons. To find the total number of watermelons they grew, we add their amounts together:
+8 plus 9 equals 17.
+They grew 17 watermelons in total.
+
+
+Q: Sam 's dog had puppies and 8 had spots . He gave 2 to his friends . He now has 6 puppies . How many puppies did he have to start with ? 
+A: Let's think step by step. 
+Sam gave 2 puppies to his friends and now has 6 puppies left. To find out how many puppies he had to start with, we add the number he gave away to the number he still has:
+2 plus 6 equals 8.
+Sam originally had 8 puppies.
+
+
+Q: There are 7 crayons in the drawer and 6 crayons on the desk . Sam placed 4 crayons and 8 scissors on the desk . How many crayons are now there in total ? 
+A: Let's think step by step. 
+There were originally 7 crayons in the drawer and 6 crayons on the desk. Sam then placed 4 more crayons on the desk. To find the total number of crayons now, we add all the crayons together:
+7 (in the drawer) + 6 (on the desk) + 4 (added to the desk) = 17 crayons.
+There are now 17 crayons in total.
+
+
+Q: Fred has 5 yellow balloons , Sam has 6 yellow balloons , and Mary has 7 yellow balloons . The balloons cost 5 dollars . How many yellow balloons do they have in total ? 
+A: Let's think step by step. 
+Fred has 5 yellow balloons, Sam has 6, and Mary has 7. To find the total number of yellow balloons, we add their amounts together:
+5 + 6 + 7 = 18
+They have 18 yellow balloons in total.
+
+
+Q: A pet store has 9 bird cages. If each cage has 2 parrots and 2 parakeets in it, how many birds does the pet store have total?
+A: Let's think step by step. 
+Each bird cage has 2 parrots and 2 parakeets, which means there are 2 + 2 = 4 birds in each cage.
+There are 9 cages, so the total number of birds is 9 × 4 = 36.
+The pet store has 36 birds in total.
+
+
+Q: Jason grew 37 watermelons and 30 pumpkins . Sandy grew 11 watermelons . How many watermelons did they grow in total ? 
+A: Let's think step by step. 
+Jason grew 37 watermelons, and Sandy grew 11 watermelons. To find the total number of watermelons they grew, we add the two amounts together:
+37 + 11 = 48
+They grew 48 watermelons in total.
+
+
+Q: Sally paid $ 12.32 total for peaches , after a 3 dollar coupon , and $ 11.54 for cherries . In total , how much money did Sally spend ? 
+A: Let's think step by step. 
+Sally paid \$12.32 for peaches **after** using a \$3 coupon, which means she actually spent \$12.32 out of pocket. She also paid \$11.54 for cherries. To find the total amount she spent, we add the two amounts together:
+\$12.32 + \$11.54 = \$23.86
+Sally spent $23.86 in total.
+
+
+Q: Mary got fast food for lunch . Mary spent $ 1.08 on soup and $ 4.80 on a salad . Mary paid with a 20 dollar bill . What was the total of the lunch bill ? 
+A: Let's think step by step. 
+Mary spent \$1.08 on soup and \$4.80 on a salad. To find the total of the lunch bill, we add the two amounts together:
+\$1.08 + \$4.80 = \$5.88
+The total of Mary's lunch bill was 5.88.
+
+
+Q: Melanie bought a Batman game for $ 6.95 , a strategy game for $ 7.90 , and a Superman game for $ 7.73 . Melanie already owns 4 games . How much did Melanie spend on video games ? 
+A: Let's think step by step. 
+Melanie bought three video games: a Batman game for \$6.95, a strategy game for \$7.90, and a Superman game for \$7.73. To find out how much she spent, we add the prices of the three games:
+\$6.95 + \$7.90 + \$7.73 = \$22.58
+Melanie spent 22.58 on video games.
+
+
+Q: Keith spent $ 6.51 on a rabbit toy , $ 5.79 on pet food , and a cage cost him $ 12.51 . He found a dollar bill on the ground . What was the total cost of Keith 's purchases ? 
+A: Let's think step by step. 
+Keith spent \$6.51 on a rabbit toy, \$5.79 on pet food, and \$12.51 on a cage. To find the total cost of his purchases, we add all three amounts together:
+\$6.51 + \$5.79 + \$12.51 = \$24.81
+The total cost of Keith's purchases was $24.81.
+(Note: The dollar he found does not change the total cost—it would affect how much he has left, not what he spent.)
+
+
+Q: Mary had 18 baseball cards , and 8 were torn . Fred gave Mary 26 new baseball cards . Mary bought 40 baseball cards . How many baseball cards does Mary have now ? 
+A: Let's think step by step. 
+Mary originally had 18 baseball cards. Although 8 were torn, she still owns them, so all 18 count. Fred gave her 26 more baseball cards. She also bought 40 new baseball cards. To find the total number of baseball cards Mary has now, we add all the cards together: 18 plus 26 plus 40 equals 84. So, Mary now has 84 baseball cards.
+
+
+Q: There are 48 erasers in the drawer and 30 erasers on the desk . Alyssa placed 39 erasers and 45 rulers on the desk . How many erasers are now there in total ? 
+A: Let's think step by step. 
+There were originally 48 erasers in the drawer and 30 erasers on the desk. Alyssa then placed 39 more erasers on the desk. To find the total number of erasers now, we add all the erasers together: 48 plus 30 plus 39 equals 117. So, there are now 117 erasers in total.
+
+
+Q: Fred picked 36 limes , Alyssa picked 32 limes , and Nancy picked 35 limes and 18 pears , at the farm . How many limes were picked in total ? 
+A: Let's think step by step. 
+Fred picked 36 limes, Alyssa picked 32 limes, and Nancy picked 35 limes. To find the total number of limes picked, we add all the limes together:
+36 + 32 + 35 = 103
+So, a total of 103 limes were picked.
+
+
+Q: At Billy's Restaurant a group with 2 adults and 5 children came in to eat. If each meal cost 3 dollars, how much was the bill? 
+A: Let's think step by step. 
+There were 2 adults and 5 children, so the total number of meals is 2 + 5 = 7.
+Each meal cost 3 dollars, so the total bill is 7 × 3 = 21.
+The bill was 21 dollars.
+
+
+Q: Dan had 14 peaches and 10 pears at his roadside fruit dish . He went to the orchard and picked peaches to stock up . There are now 85 peaches . how many did he pick ? 
+
+
+Q: Melanie has 41 books and 31 magazines in her library . She bought several books at a yard sale over the weekend . She now has 87 books in her library . How many books did she buy at the yard sale ? 
+
+
+Q: There were 2 red orchids and 4 white orchids in the vase . Jessica cut some red orchids from her flower garden . There are now 18 red orchids in the vase . How many red orchids did she cut ? 
+
+
+Q: Last week Tim had 12 dollars and Keith had 36 dollars . Tim washed cars over the weekend and now has 75 dollars . How much money did Tim make washing cars ? 
+
+
+Q: Joan found 75 seashells and 14 starfishes on the beach . She gave Tim some of her seashells . She has 62 seashell . How many seashells did she give to Tim ? 
+
+
+Q: Sandy grew 8 carrots and 7 turnips . Mary grew 6 carrots . How many carrots did they grow in all ? 
+
+
+Q: Sally has 9 orange balloons and 4 blue balloons . She lost 2 of the orange balloons . How many orange balloons does Sally have now ? 
+
+
+Q: Sam had 7 pennies and 8 dimes in his bank . His sister borrowed 4 dimes . How many dimes does Sam have now ? 
+
